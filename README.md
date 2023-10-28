@@ -14,10 +14,12 @@
 
 
 <p align="center">
+<a href="https://www.dio.me/curso-chat-gpt-for-devs/AFNTB8OHHAR1" alt="ChatGPT for DEVs">
 <img 
     src=".github/assets/chat_gpt_for_devs.png"
     width="400"  
 />
+</a>
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
@@ -28,12 +30,12 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/robsonamendonca/dio-prompts-recipe-to-create-a-ebook/blob/main/output/ebook - HTML.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Lexica.art](https://lexica.art/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -47,7 +49,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em HTML, listando os principais tags HTML com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Lexica.art：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -56,7 +58,7 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Lexica.art
 
 ## 📚 Materiais
 
